@@ -5,8 +5,6 @@ import pygame, sys
 #import some useful constants
 from pygame.locals import *
 
-
-
 #color constants
 black = (0,0,0)
 
